@@ -77,6 +77,12 @@ will be created automatically in the same folder.
 
 The generated "submission.csv" contains the predicted scores in the required format and can be used for further evaluation.
 
+## Project Report
+
+A detailed report explaining the dataset, approach, model selection, implementation, performance metrics, and prediction results is available in:
+**project report.pdf**
+Refer to the report for a complete overview of the project methodology and findings.
+
 ## Technologies Used
 
 * Python
