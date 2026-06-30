@@ -29,7 +29,7 @@ The workflow followed is:
 
 ## Files Required
 
-Download and place the following files in the same folder:
+Download and place the following files in the same folder:/
 train_3.csv
 test_3.csv
 samp_subm_3.csv
@@ -44,8 +44,8 @@ solution.py
 
 ## Project Structure
 
-Project Folder
-rain_3.csv
+Project Folder/
+train_3.csv
 test_3.csv
 samp_subm_3.csv
 solution.py
