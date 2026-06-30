@@ -28,13 +28,13 @@ The workflow followed is:
 9. Export the predictions to "submission.csv".
 
 ## Files Required
-
-Download and place the following files in the same folder:/
+```
+Download and place the following files in the same folder:
 train_3.csv
 test_3.csv
 samp_subm_3.csv
 solution.py
-
+```
 ### File Description
 
 * **train_3.csv** : Dataset used for training the model.
@@ -43,14 +43,14 @@ solution.py
 * **solution.py** : Python script containing the complete implementation.
 
 ## Project Structure
-
-Project Folder/
+```
+Project Folder
 train_3.csv
 test_3.csv
 samp_subm_3.csv
 solution.py
 README.md
-
+```
 ## Installation
 
 Install the required libraries:
