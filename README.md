@@ -44,13 +44,12 @@ solution.py
 
 ## Project Structure
 
-Project Folder/
-│
-├── train_3.csv
-├── test_3.csv
-├── samp_subm_3.csv
-├── solution.py
-└── README.md
+Project Folder
+rain_3.csv
+test_3.csv
+samp_subm_3.csv
+solution.py
+README.md
 
 ## Installation
 
