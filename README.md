@@ -28,8 +28,8 @@ The workflow followed is:
 9. Export the predictions to "submission.csv".
 
 ## Files Required
-```
 Download and place the following files in the same folder:
+```
 train_3.csv
 test_3.csv
 samp_subm_3.csv
@@ -42,15 +42,6 @@ solution.py
 * **samp_subm_3.csv** : Reference file showing the required output format.
 * **solution.py** : Python script containing the complete implementation.
 
-## Project Structure
-```
-Project Folder
-train_3.csv
-test_3.csv
-samp_subm_3.csv
-solution.py
-README.md
-```
 ## Installation
 
 Install the required libraries:
